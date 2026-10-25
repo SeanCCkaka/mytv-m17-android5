@@ -1,0 +1,256 @@
+{
+  "version": "0.1.2-m17-test",
+  "original_entries": 168,
+  "current_unique_channels": 39,
+  "group_counts": {
+    "央视": 16,
+    "卫视": 15,
+    "浙江频道": 8
+  },
+  "satellite_channels_confirmed_by_user": [
+    "北京卫视",
+    "湖南卫视",
+    "天津卫视",
+    "东方卫视",
+    "深圳卫视",
+    "四川卫视",
+    "安徽卫视",
+    "浙江卫视",
+    "重庆卫视",
+    "广西卫视",
+    "广东卫视",
+    "江苏卫视",
+    "辽宁卫视",
+    "湖北卫视",
+    "山东卫视"
+  ],
+  "new_device_video_checks": [
+    {
+      "channel": "浙江公共新闻",
+      "first_frame": true,
+      "observed_presentation_fps": 24.91935432223596,
+      "presentation_span_seconds": 4.133333419,
+      "max_gap_ms": 50.298875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江国际",
+      "first_frame": true,
+      "observed_presentation_fps": 24.97944347923181,
+      "presentation_span_seconds": 4.083357585,
+      "max_gap_ms": 50.195708,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江少儿",
+      "first_frame": true,
+      "observed_presentation_fps": 25.04129772390913,
+      "presentation_span_seconds": 4.033337294,
+      "max_gap_ms": 50.08025,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江教科影视",
+      "first_frame": true,
+      "observed_presentation_fps": 25.020330020169165,
+      "presentation_span_seconds": 4.116652335,
+      "max_gap_ms": 50.082833,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江数码时代",
+      "first_frame": true,
+      "observed_presentation_fps": 25.081806327718365,
+      "presentation_span_seconds": 4.066692752,
+      "max_gap_ms": 50.025583,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江民生休闲",
+      "first_frame": true,
+      "observed_presentation_fps": 24.99156814505169,
+      "presentation_span_seconds": 4.081376543,
+      "max_gap_ms": 50.845667,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江经济生活",
+      "first_frame": true,
+      "observed_presentation_fps": 25.04132954292265,
+      "presentation_span_seconds": 4.033332169,
+      "max_gap_ms": 50.110875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "浙江钱江频道",
+      "first_frame": true,
+      "observed_presentation_fps": 24.939378469975612,
+      "presentation_span_seconds": 4.049820252,
+      "max_gap_ms": 50.233875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-1",
+      "first_frame": true,
+      "observed_presentation_fps": 25.02023555882791,
+      "presentation_span_seconds": 4.116667877,
+      "max_gap_ms": 50.280875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-2",
+      "first_frame": true,
+      "observed_presentation_fps": 24.9383621589022,
+      "presentation_span_seconds": 4.049985294,
+      "max_gap_ms": 50.09725,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-3",
+      "first_frame": true,
+      "observed_presentation_fps": 24.97950261606878,
+      "presentation_span_seconds": 4.083347918,
+      "max_gap_ms": 50.183667,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-4",
+      "first_frame": true,
+      "observed_presentation_fps": 24.979289524118553,
+      "presentation_span_seconds": 4.083382752,
+      "max_gap_ms": 50.574458,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-5",
+      "first_frame": true,
+      "observed_presentation_fps": 25.060251519354136,
+      "presentation_span_seconds": 4.149998252,
+      "max_gap_ms": 50.303875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-6",
+      "first_frame": true,
+      "observed_presentation_fps": 24.979515866380154,
+      "presentation_span_seconds": 4.083345752,
+      "max_gap_ms": 51.856417,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-7",
+      "first_frame": true,
+      "observed_presentation_fps": 24.919161146491223,
+      "presentation_span_seconds": 4.133365461,
+      "max_gap_ms": 50.644791,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-8",
+      "first_frame": true,
+      "observed_presentation_fps": 25.01992154776233,
+      "presentation_span_seconds": 4.116719543,
+      "max_gap_ms": 50.249875,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-9",
+      "first_frame": true,
+      "observed_presentation_fps": 24.979468970373606,
+      "presentation_span_seconds": 4.083353418,
+      "max_gap_ms": 50.7985,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-10",
+      "first_frame": true,
+      "observed_presentation_fps": 25.081888560835193,
+      "presentation_span_seconds": 4.066679419,
+      "max_gap_ms": 50.083292,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-11",
+      "first_frame": true,
+      "observed_presentation_fps": 24.979749094960855,
+      "presentation_span_seconds": 4.083307627,
+      "max_gap_ms": 50.185792,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-12",
+      "first_frame": true,
+      "observed_presentation_fps": 25.06023818609408,
+      "presentation_span_seconds": 4.15000046,
+      "max_gap_ms": 52.509375,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-13",
+      "first_frame": true,
+      "observed_presentation_fps": 24.938115855629025,
+      "presentation_span_seconds": 4.050025294,
+      "max_gap_ms": 51.916083,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-14",
+      "first_frame": true,
+      "observed_presentation_fps": 24.937915996413675,
+      "presentation_span_seconds": 4.050057752,
+      "max_gap_ms": 50.216333,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-15",
+      "first_frame": true,
+      "observed_presentation_fps": 24.97941824507141,
+      "presentation_span_seconds": 4.08336171,
+      "max_gap_ms": 50.707625,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    },
+    {
+      "channel": "CCTV-17",
+      "first_frame": true,
+      "observed_presentation_fps": 24.979048149909534,
+      "presentation_span_seconds": 4.08342221,
+      "max_gap_ms": 50.381292,
+      "gaps_ge_200ms": [],
+      "layer_ownership_verified": true
+    }
+  ],
+  "excluded_no_ipv6_route": [
+    "CCTV-16",
+    "CCTV-5+"
+  ],
+  "limitations": [
+    "频道输出检查确认首帧和短时持续画面；未逐台由人工确认音量、口型或长时间稳定性。",
+    "15个卫视来自用户电视观察；山东曾出现短暂音画不同步，重开后用户确认恢复。"
+  ],
+  "channel_file": "CHANNELS-2026-10-26.json",
+  "navigation": "播放中按左键打开频道列表；上下选择，确定切台，返回关闭。",
+  "navigation_physical_remote_confirmed_by_user": true
+}

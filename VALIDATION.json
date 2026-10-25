@@ -1,0 +1,61 @@
+{
+  "version": "0.1.2-m17-test",
+  "version_code": 3,
+  "checked_at": "2026-10-26T00:37:27.068650+08:00",
+  "build": "PASS",
+  "variant": "R8 optimized, original testing certificate, non-debuggable",
+  "android_min_sdk": 22,
+  "target_sdk": 34,
+  "abis": [
+    "armeabi-v7a"
+  ],
+  "unit_tests": 35,
+  "test_failures": 0,
+  "lint_errors": 0,
+  "lint_warnings": 109,
+  "apk_sha256": "ffe0ab755ba465c18d545233d6826577ef3c495012fabe66c8b32ddf2122f996",
+  "apk_bytes": 23995651,
+  "installed_on_tv": true,
+  "installation_status": "Installed successfully, versionCode3 read back; original testing signature and application data retained",
+  "guava_isolation": {
+    "apk_sha256": "ffe0ab755ba465c18d545233d6826577ef3c495012fabe66c8b32ddf2122f996",
+    "apk_bytes": 23995651,
+    "abis": [
+      "armeabi-v7a"
+    ],
+    "old_guava_type_references": [],
+    "guava_mapped_classes": 136,
+    "guava_optimized_away_classes": 29,
+    "unisolated_guava_mappings": {},
+    "passed": true
+  },
+  "channel_configuration": {
+    "before_entries": 168,
+    "after_distinct_channels": 39,
+    "groups": {
+      "央视": 16,
+      "卫视": 15,
+      "浙江频道": 8
+    },
+    "configuration_file": "CHANNELS-2026-10-26.json",
+    "default_and_installed_channel_lists_match": true,
+    "previous_configuration_backed_up": true
+  },
+  "playback_verification": {
+    "15_satellites_confirmed_by_user": true,
+    "16_cctv_and8_zhejiang_channels_output_video_on_device": true,
+    "sample_scope": "首帧加短时持续画面检查，不能证明长期稳定或逐台口型同步。"
+  },
+  "remote_navigation": {
+    "left_opens_channel_list": true,
+    "up_down_select": true,
+    "ok_switches_channel": true,
+    "back_closes_channel_list": true,
+    "physical_remote_confirmed_by_user": true
+  },
+  "daily_settings": {
+    "decoder": "Exo-auto; pre-existing hardware playback setting retained",
+    "startup": "remember last channel",
+    "current_channel": "User selection retained"
+  }
+}

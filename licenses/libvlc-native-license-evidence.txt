@@ -1,0 +1,22 @@
+Observed strings from unmodified libvlc-all-3.6.5.aar jni/armeabi-v7a/libvlc.so
+AAR SHA-256: 6a15a1f7acd0738a31acce0c7e5eb6f5f340b62e6b64d8f83df547da56a44b47
+
+3.0.22-rc1-37-gfe81489755
+
+--extra-ldflags=' -L/builds/videolan/vlc/contrib/arm-linux-androideabi/lib -z max-page-size=16384' --cc=/sdk/android-sdk-linux/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/armv7a-linux-androideabi17-clang --pkg-config=pkg-config --disable-doc --disable-encoder=vorbis --disable-decoder=opus --enable-libgsm --disable-debug --disable-avdevice --disable-devices --disable-avfilter --disable-filters --disable-protocol=concat --disable-bsfs --disable-bzlib --disable-libvpx --disable-avresample --enable-bsf=vp9_superframe --disable-swresample --disable-iconv --disable-avisynth --disable-nvenc --disable-linux-perf --enable-libopenjpeg --enable-libmp3lame --enable-gpl --enable-postproc --enable-thumb --enable-cross-compile --disable-programs --cross-prefix=arm-linux-androideabi- --arch=arm --enable-neon --cpu=cortex-a8 --target-os=linux --enable-pic --extra-libs=-lm --enable-pthreads --nm= --ar=/sdk/android-sdk-linux/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ar --ranlib=/sdk/android-sdk-linux/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ranlib --prefix=/builds/videolan/vlc/contrib/arm-linux-androideabi --enable-static --disable-shared
+
+libavformat license: GPL version 2 or later
+
+libpostproc license: GPL version 2 or later
+
+libswscale license: GPL version 2 or later
+
+libavcodec license: GPL version 2 or later
+
+libavutil license: GPL version 2 or later
+
+FFmpeg version 4.4.5
+
+FFmpeg version 4.4.5
+
+FFmpeg version 4.4.5

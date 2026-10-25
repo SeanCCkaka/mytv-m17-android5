@@ -1,0 +1,449 @@
+[
+  {
+    "name": "CCTV1",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV1.png",
+    "title": "CCTV-1",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd"
+    ],
+    "videoIndex": 0,
+    "number": 1,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV2",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV2.png",
+    "title": "CCTV-2",
+    "uris": [
+      "http://204.12.221.218:8181/3m1080p/cctv2.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 2,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV3",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV3.png",
+    "title": "CCTV-3",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd"
+    ],
+    "videoIndex": 0,
+    "number": 3,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV4",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV4.png",
+    "title": "CCTV-4",
+    "uris": [
+      "http://107.150.60.122/live/cctv4hd.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 4,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV5",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV5.png",
+    "title": "CCTV-5",
+    "uris": [
+      "http://107.150.60.122/live/cctv5hd.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 5,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV6",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV6.png",
+    "title": "CCTV-6",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd"
+    ],
+    "videoIndex": 0,
+    "number": 6,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV7",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV7.png",
+    "title": "CCTV-7",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd"
+    ],
+    "videoIndex": 0,
+    "number": 7,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV8",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV8.png",
+    "title": "CCTV-8",
+    "uris": [
+      "http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 8,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV9",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV9.png",
+    "title": "CCTV-9",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd"
+    ],
+    "videoIndex": 0,
+    "number": 9,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV10",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV10.png",
+    "title": "CCTV-10",
+    "uris": [
+      "http://74.91.26.218:82/live/cctv10hd.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 10,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV11",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV11.png",
+    "title": "CCTV-11",
+    "uris": [
+      "http://74.91.26.218:82/live/cctv11hd.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 11,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV12",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV12.png",
+    "title": "CCTV-12",
+    "uris": [
+      "http://74.91.26.218:82/live/cctv12hd.m3u8"
+    ],
+    "videoIndex": 0,
+    "number": 12,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV13",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV13.png",
+    "title": "CCTV-13",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd"
+    ],
+    "videoIndex": 0,
+    "number": 13,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV14",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV14.png",
+    "title": "CCTV-14",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd"
+    ],
+    "videoIndex": 0,
+    "number": 14,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV15",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV15.png",
+    "title": "CCTV-15",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd"
+    ],
+    "videoIndex": 0,
+    "number": 15,
+    "sourceType": "HLS"
+  },
+  {
+    "name": "CCTV17",
+    "group": "央视",
+    "logo": "https://live.fanmingming.cn/tv/CCTV17.png",
+    "title": "CCTV-17",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd"
+    ],
+    "videoIndex": 0,
+    "number": 16,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/f4f23633c578beea49a3841d88d3490100f029ee349059fa532869db889872c5.png?imageMogr2/format/webp",
+    "title": "北京卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 17
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/4120e89d3079d08aa17d382f69a2308ec70839b278367763c34a34666c75cb88.png?imageMogr2/format/webp",
+    "title": "湖南卫视",
+    "uris": [
+      "http://74.91.26.218:82/live/hnwshd.m3u8",
+      "http://107.150.60.122/live/hnwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 18
+  },
+  {
+    "group": "卫视",
+    "title": "天津卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd",
+      "http://107.150.60.122/live/tjwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 19
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/a66c836bd98ba3e41a2e9a570d4b9c50dedc6839e9de333e2e78212ad505f37e.png?imageMogr2/format/webp",
+    "title": "浙江卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 20
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/380ad685c0c1d5b2c902246b8d2df6d3f9b45e2837abcfe493075bbded597a31.png?imageMogr2/format/webp",
+    "title": "江苏卫视",
+    "uris": [
+      "http://107.150.60.122/live/jswshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 21
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "logo": "https://live.fanmingming.cn/tv/东方卫视.png",
+    "title": "东方卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 22
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/28886880a4dc0f06fb7e0a528a1def0591d61a65870e29176ede0cc92033bbfd.png?imageMogr2/format/webp",
+    "title": "广东卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 23
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/d59fec04c902e3581c617136d02d4b9b8c4cbe64272781ddd3525e80c823edb7.png?imageMogr2/format/webp",
+    "title": "深圳卫视",
+    "uris": [
+      "http://107.150.60.122/live/szwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 24
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/f35fa04b51b1ee4984b03578b65403570868ebca03c6c01e11b097f999a58d9b.png?imageMogr2/format/webp",
+    "title": "安徽卫视",
+    "uris": [
+      "http://204.12.221.218:8181/3m1080p/ahws.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 25
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/22d403f07a7cf5410b3ad3ddb65a11aa229a32475fac213f5344c9f0ec330ca1.png?imageMogr2/format/webp",
+    "title": "山东卫视",
+    "uris": [
+      "http://107.150.60.122/live/sdwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 26
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/ac4ed6058a87c101ae7147ebc38905d0cae047fb73fd277ee5049b84f52bda36.png?imageMogr2/format/webp",
+    "title": "辽宁卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 27
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/7a6be5a2bb1dc53a945c016ff1f525dc4a84c51db371c15c89aa55404b0ba784.png?imageMogr2/format/webp",
+    "title": "湖北卫视",
+    "uris": [
+      "http://107.150.60.122/live/hbwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 28
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/657651f411de2673d1770d9a78b44c1265704f7468cc41d4be7f51d630768494.png?imageMogr2/format/webp",
+    "title": "重庆卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 29
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/3276a414ae0eaa0f116f2045cd913367967d0c7c1e978e8621ac3879436c6ed7.png?imageMogr2/format/webp",
+    "title": "四川卫视",
+    "uris": [
+      "http://107.150.60.122/live/scwshd.m3u8"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 30
+  },
+  {
+    "group": "卫视",
+    "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/54b7e97cb816bb223fe05f3fc44da2c7820eb66e8550c19d23100f2c414ecc38.png?imageMogr2/format/webp",
+    "title": "广西卫视",
+    "uris": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd"
+    ],
+    "videoIndex": 0,
+    "sourceType": "HLS",
+    "number": 31
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江新闻.png",
+    "title": "浙江公共新闻",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+    ],
+    "number": 32,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江国际.png",
+    "title": "浙江国际",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+    ],
+    "number": 33,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江少儿.png",
+    "title": "浙江少儿",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+    ],
+    "number": 34,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江教科影视.png",
+    "title": "浙江教科影视",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+    ],
+    "number": 35,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江数码时代.png",
+    "title": "浙江数码时代",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+    ],
+    "number": 36,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江民生休闲.png",
+    "title": "浙江民生休闲",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+    ],
+    "number": 37,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/浙江经济生活.png",
+    "title": "浙江经济生活",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+    ],
+    "number": 38,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  },
+  {
+    "group": "浙江频道",
+    "logo": "https://live.fanmingming.cn/tv/钱江都市.png",
+    "title": "浙江钱江频道",
+    "uris": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+    ],
+    "number": 39,
+    "videoIndex": 0,
+    "sourceType": "HLS"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/zwc456baby/my-tv-webview",
+  "commit": "600209bc4bff1a74462a4d36c87ef44f66535962",
+  "license": "MIT",
+  "retrieved_on": "2026-10-25",
+  "published_apk_is_not_reproducible_from_this_commit": true,
+  "application_id": "com.lizongying.mytv0.m17compat",
+  "libvlc": "org.videolan.android:libvlc-all:3.6.5"
+}

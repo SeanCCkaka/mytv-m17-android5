@@ -1,0 +1,13 @@
+{
+  "version_code": 3,
+  "version_name": "0.1.2-m17-test",
+  "git_tag": "v0.1.2-m17-test",
+  "status": "verified-on-M17",
+  "android_version_verified": "5.1.1",
+  "min_sdk": 22,
+  "abi": "armeabi-v7a",
+  "verified_on": "2026-10-26",
+  "apk_name": "MyTV-M17-compat-0.1.2.apk",
+  "apk_url": "",
+  "tested_apk_sha256": "ffe0ab755ba465c18d545233d6826577ef3c495012fabe66c8b32ddf2122f996"
+}

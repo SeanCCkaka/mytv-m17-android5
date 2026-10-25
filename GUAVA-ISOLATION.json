@@ -1,0 +1,12 @@
+{
+  "apk_sha256": "ffe0ab755ba465c18d545233d6826577ef3c495012fabe66c8b32ddf2122f996",
+  "apk_bytes": 23995651,
+  "abis": [
+    "armeabi-v7a"
+  ],
+  "old_guava_type_references": [],
+  "guava_mapped_classes": 136,
+  "guava_optimized_away_classes": 29,
+  "unisolated_guava_mappings": {},
+  "passed": true
+}
